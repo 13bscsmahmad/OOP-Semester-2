@@ -12,5 +12,7 @@ int main (void){
   else 
     std::cout << "You entered nothing." << std::endl;
 
+  std::cout << "this has been edited" << std::endl;
+
   return 0;
 }
